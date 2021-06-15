@@ -1,0 +1,1 @@
+import{a as t}from"./index.9c2b56da.js";function n(n){return t({url:"conExt",params:{contentid:n}})}function r(){return t({url:"ext"})}function a(n){return t({url:"ext",method:"POST",data:n})}function e(n){return t({url:"ext",method:"DELETE",data:n})}export{r as _,a,e as b,n as c};
